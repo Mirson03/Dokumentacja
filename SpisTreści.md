@@ -1,7 +1,7 @@
 # Wolne myśli
-..* Zwrócić uwagę na szeroką możliwość zastosowania telefonów komórkowych
-..* Punkty jako wirtualna waluta
-..* Dni aktywności jako wirtualna waluta
+* Zwrócić uwagę na szeroką możliwość zastosowania telefonów komórkowych
+* Punkty jako wirtualna waluta
+* Dni aktywności jako wirtualna waluta
 
 # Technologie
 :warning: **TODO**: Wykonanie spisu technologii użytych w projekcie
