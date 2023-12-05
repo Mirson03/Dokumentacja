@@ -3,8 +3,9 @@
 * Punkty jako wirtualna waluta
 * Dni aktywności jako wirtualna waluta
 
-# Technologie
-:warning: **TODO**: Wykonanie spisu technologii użytych w projekcie
+# Repozytoria
+:warning: **TODO**: Wykonanie spisu repozytoriów wraz z technologiami
+
 
 # Podstawowe pojęcia wewnętrzne
 * **Gardner Multiple Intelligence Theory( tłum. Inteligencja wieloraka Gardnera)** – Teoria opracowana przez Howarda Gardnera w 1983 wedle której inteligencja ludzka podzielona jest na 8 odrębnych od siebie bloków.
