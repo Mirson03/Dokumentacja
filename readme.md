@@ -1,18 +1,18 @@
 # Spis treści dokumentacji
-> Koncept:
+### Koncept:
  - [Nowa Nauka - manifest](koncept/NowaNaukaManifest.md)
  - [Stosowanie psychologii w edukacji](koncept/PsychologiaEdukacji.md)
  - [Personalizacja nauki w praktyce](koncept/PersonalizacjaNauki.md)
  - [*Pierwszy koncept* - archiwum](koncept/PierwszyKoncept.md)
 
-> Techniczne:
+### Techniczne:
  - [Spis repozytoriów](techniczne/SpisRepozytoriów.md)
  - [Domain driven design w naszych projektach](techniczne/DomainDrivenHowTo.md)
  - [Onion architecture i jej stosowanie](techniczne/OnionArchitectureHowTo.md)
 
-  Dokumentacja techniczna zawarta w tym repo dotyczy ogólnego rozumienia technikalii naszych aplikacjii. Sczegóły techniczne dla szczególkonkretnych aplikacji dostępne są (a przynajmniej powinny być) w jej repozytorium.
+  Dokumentacja techniczna zawarta w tym folderze dotyczy ogólnego rozumienia technikalii naszych aplikacjii. Sczegóły techniczne dla szczególkonkretnych aplikacji dostępne są (a przynajmniej powinny być) w jej repozytorium.
 
-> Projekty i pomysły:
+### Projekty i pomysły:
  - [Edutie](projekty/Edutie.md)
  - [EavesNote *(nazwa tymczasowa)*](projekty/EavesNote.md)
 
