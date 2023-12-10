@@ -1,6 +1,6 @@
 # Psychologia Edukacji
 
-Aby ulepszać to jak się uczymy, konieczne jest zrouzumienie tego procesu. Proces zaś jest skomplikowany i wielu psychologów już bezskutecznie próbowała go usystematyzyować.
+Aby ulepszać to jak się uczymy, konieczne jest zrozuumienie tego procesu. Proces zaś jest skomplikowany i wielu psychologów bezskutecznie próbowała go usystematyzyować.
 
 Ten dokument poświęcony jest opisom teorii psychologicznych, które wykorzystujemy w naszych projektach. Do szczególnej specyfiki
 
