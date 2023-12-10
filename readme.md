@@ -15,7 +15,10 @@
 > Projekty i pomysły:
  - [Edutie](projekty/Edutie.md)
  - [EavesNote *(nazwa tymczasowa)*](projekty/EavesNote.md)
- - *więcej wkrótce...*
+
+ - *Warsztaty dla szkół średnich*
+ - *Soft dla kółek naukowych/kółek zainteresowań*
+ - *Soft dla nauczycieli i korepetytorów*
 
 Gdyby powstał w Twojej głowie pomysł na nowy projekt stosujący podejście Nowej Nauki opisane w konceptach, albo taki który Twoim zdaniem by pasował do obecnego repertuaru - dodaj go jako Pull Request albo jako GitHub issue.
 
