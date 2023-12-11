@@ -10,7 +10,7 @@
  - [Domain driven design w naszych projektach](techniczne/DomainDrivenHowTo.md)
  - [Onion architecture i jej stosowanie](techniczne/OnionArchitectureHowTo.md)
 
-  Dokumentacja techniczna zawarta w tym folderze dotyczy ogólnego rozumienia technikalii naszych aplikacjii. Sczegóły techniczne dla szczególkonkretnych aplikacji dostępne są (a przynajmniej powinny być) w jej repozytorium.
+Technikalia opisane w tym repozytorium dotyczą ogólnie stosowanych rozwiązań. Szczegóły techniczne projektów dostępne są w repozytoriach zawierających aplikacje.
 
 ### Projekty i pomysły:
  - [Edutie](projekty/Edutie.md)
@@ -20,7 +20,7 @@
  - *Soft dla kółek naukowych/kółek zainteresowań*
  - *Soft dla nauczycieli i korepetytorów*
 
-Gdyby powstał w Twojej głowie pomysł na nowy projekt stosujący podejście Nowej Nauki opisane w konceptach, albo taki który Twoim zdaniem by pasował do obecnego repertuaru - dodaj go jako Pull Request albo jako GitHub issue.
+Pomysły na nowe projekty są mile widziane! Aby zgłosić swój pomysł opowiedz o nim któremuś z twórców albo prześlij Github Issue lub Pull Request
 
 # Rozszerzanie dokumentacji
-Jeśli uważasz że nie ma tu czegoś co powinno się tu znaleźć, daj znać poprzez nowy GitHub issue albo Pull Request z zaproponowaną poprawką.
+Jeśli uważasz że nie ma tu czegoś co powinno się tu znaleźć, zgłoś to poprzez nowy GitHub issue albo Pull Request. Tyczy się to zarówno wprowadzania nowych treści, rozszerzania już istniejących oraz aktualizowania przestarzałych informacji.
