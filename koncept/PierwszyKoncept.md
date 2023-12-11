@@ -38,6 +38,3 @@ Tutoring działałby na zasadzie dobierania korepetytorów do uczniów. Mechaniz
 Wraz z projektem Edutie z pierwszego konceptu powstały również pomysły na *pomocnicze* aplikacje:
  - Kahoot live - apikacja wykrywająca słowa prezentatora na warsztatach, która dla uczestników na bieżąco generowałaby notatki i pytania.
  - Helper dla korepetytorów - generowanie przykładowych materiałów dla korepetytora pasujących do profilu nauczania ucznia
-
-
-## Wolne myśli
