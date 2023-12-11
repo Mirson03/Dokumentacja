@@ -4,7 +4,7 @@ Według Nowej Nauki jednym z kluczowych aspektów edukacji jest indywidualne pod
 
 ## Teoria
 
-Aby lepiej dostosowywać proces nauczania do ucznia, konieczne jest poznanie jego słabości i mocnych punktów. Zazwyczaj uczący robią to poprzez wytypowanie tematów, które sprawiają szczególną trudność dla ucznia. My jednak idziemy o krok dalej - korzystając z psychologii zakładamy, że możemy stwierdzić po słabości w temacie X słabość również w temacie Y. 
+Aby lepiej dostosowywać proces nauczania do ucznia, konieczne jest poznanie  słabości i mocnych punktów ucznia. Zazwyczaj uczący robią to poprzez wytypowanie tematów, które sprawiają szczególną trudność. My jednak idziemy o krok dalej - korzystając z psychologii zakładamy, że możemy stwierdzić po słabości w temacie X słabość również w temacie Y. 
 
 *Przykład: uczeń nieradzący sobie z tematem hydrostatyki będzie miał również trudności w zakresie termodynamiki*
 
@@ -20,4 +20,4 @@ Aby usystematyzować predyspozycje i umiejętności ucznia, zakładamy że możl
 
 Kształcenie ogólne w założeniu ma przedstawiać uczniom dużą liczbę nauk i zagadnień, które w przyszłości mają pomóc uczniowi w decyzji do obrania dalszej ścieżki nauki czy kariery. *Można wnioskować że w praktyce rozwiązanie to nie jest w pełni sprawne.* Warto zauważyć jednak, że personalizacja edukacji umożliwia skupianie się na mocnych stronach ucznia, co bardzo ułatwi wybór ścieżki dalszego rozwoju.
 
-Personalizacja edukacji pomaga nie tylko w bardziej efektywnej nauce, ale również w lepszym zrozumieniu swoich predyspozycji przez ucznia. Dzięki temu uczeń ma lepszy pogląd na swoje możliwości, i to które z nich najlepiej będzie rozwijać.
+Personalizacja edukacji pomaga nie tylko w bardziej efektywnej nauce, ale również w lepszym zrozumieniu swoich predyspozycji przez ucznia. Dzięki temu uczeń ma lepszy pogląd na swoje możliwości, i to które z nich najlepiej będzie rozwijać. Ponadto, można na jej podstawie dobierać dla uczniów ścieżki rozwoju również pozaszkolnego i oceniać która z nich będzie dla ucznia najlepsza.

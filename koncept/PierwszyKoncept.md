@@ -28,7 +28,16 @@ Kursy i lekcje miałyby promować tutoring. Kursy poprzez zainteresowanie ciekaw
 
 Tutoring działałby na zasadzie dobierania korepetytorów do uczniów. Mechanizm nazywany pieszczotliwie "uberem dla korków" działałby na zasadzie właśnie ubera; korepetytorzy nie byliby stali, tylko dobierani elastycznie do potrzeb ucznia analizując jego aktualną potrzebe (np. tego że uczeń teraz chce się nauczyć tematu X) oraz profilu nauczania ucznia.
 
+## Elastyczne profile dla ucznia
+
+* **ESP (Elastic Skill Profile)** – profil użytkownika określający jaką ma on wiedzę w danym temacie. Profil przechowuje informacje na temat wiedzy użytkownika w danym temacie, ale również to jaki ELP posiada. Profil umiejętności określa się na podstawie tego jak daleko dany uzytkownik zaszedł w ELP.
+
+* **ELP (Elastic Learning Profile)** – oparty na 8 profilach inteligencji I badaniach profil uzytkownika łatwoprzewidujący sposób w jaki dana osoba najlepiej się uczy. System oparty na drzewie umiejętności określający, że jeśli łatwo jest nauczyć się podmiotu A to również łatwo będzie nauczyć się podmiotu B.
+
 ## Gadżety
 Wraz z projektem Edutie z pierwszego konceptu powstały również pomysły na *pomocnicze* aplikacje:
  - Kahoot live - apikacja wykrywająca słowa prezentatora na warsztatach, która dla uczestników na bieżąco generowałaby notatki i pytania.
  - Helper dla korepetytorów - generowanie przykładowych materiałów dla korepetytora pasujących do profilu nauczania ucznia
+
+
+## Wolne myśli
