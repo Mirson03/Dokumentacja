@@ -22,10 +22,5 @@ Technikalia opisane w tym repozytorium dotyczą ogólnie stosowanych rozwiązań
 
 Pomysły na nowe projekty są mile widziane! Aby zgłosić swój pomysł opowiedz o nim któremuś z twórców albo prześlij Github Issue lub Pull Request
 
-## Psychologiczne:
- - [Higher Order Learning](psychologiczne/HigherOrderLearning.tex)
- - [Taksonomia Blooma](psychologiczne/TaskonomiaBlooma.tex)
- - [Siedem stylów nauki w oparciu o teorie wielu inteligencji Gardnera]()
-
 # Rozszerzanie dokumentacji
 Jeśli uważasz że nie ma tu czegoś co powinno się tu znaleźć, zgłoś to poprzez nowy GitHub issue albo Pull Request. Tyczy się to zarówno wprowadzania nowych treści, rozszerzania już istniejących oraz aktualizowania przestarzałych informacji.
