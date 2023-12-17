@@ -35,6 +35,16 @@ Teoria opracowana przez Raymonda Cattella, zakładająca że inteligencję ogól
 
 > Inteligencję płynną można poprzez naukę "skrystalizować"
 
+***Inteligencja płynna:***
+Definicja: Inteligencja płynna odnosi się do zdolności radzenia sobie z nowymi sytuacjami, rozwiązywania problemów bez wcześniejszego doświadczenia i szybkiego przyswajania nowych informacji.
+Charakterystyka: Jest to zdolność do myślenia abstrakcyjnego, logicznego, analizy sytuacji i rozumowania. Osoby o wysokiej inteligencji płynnej mogą szybko przystosowywać się do nowych wyzwań i sytuacji.
+
+***Inteligencja skrystalizowana:***
+Definicja: Inteligencja skrystalizowana odnosi się do gromadzenia wiedzy, umiejętności i doświadczenia w czasie trwania życia. To rodzaj inteligencji opartej na nauce i doświadczeniu życiowym.
+        Charakterystyka: Związana jest z wiedzą zdobytą w trakcie nauki, zdolnością do rozwiązywania problemów na podstawie już posiadanych informacji oraz wykorzystywaniem umiejętności społecznych i kulturowych.
+
+Te dwie formy inteligencji są często postrzegane jako uzupełniające się. Inteligencja płynna jest silnie związana z czynnikami biologicznymi, a jej poziom może być mierzony w okresie młodości, podczas gdy inteligencja skrystalizowana rozwija się w miarę upływu czasu w wyniku nauki, doświadczenia i ekspozycji na różnorodne sytuacje.
+
 ```
 Cattell distinguished two types of intelligence viz., (i) Fluid intelligence (ii) Crystallised intelligence. According to him, Fluid intelligence allows the persons to learn new things regardless of past experience, whereas the crystallized intelligence is the ability to solve problems based upon previous experience. Cattell believed that intelligence was primarily an inherited trait.
 ```
